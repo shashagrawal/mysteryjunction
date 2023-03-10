@@ -13,14 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: "Mystery Junction"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  'Mystery Junction' is a blog that delves into the fascinating and 
+  complex relationship between science and spirituality. Through thought-provoking 
+  articles and in-depth analyses, we explore the ways in which these two seemingly 
+  disparate fields intersect, overlap, and inform each other. Join us on a journey 
+  of discovery as we explore the mysteries of the universe and the human experience 
+  from both scientific and spiritual perspectives.
+twitter_username: shash_ag
+github_username: shashagrawal
 minimal_mistakes_skin: default
 search: true
 
@@ -58,9 +61,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Shashank Agrawal"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Unveiling the mysteries of the unexplored world"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
