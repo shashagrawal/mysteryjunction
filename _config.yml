@@ -24,7 +24,7 @@ description: "'Mystery Junction' is a blog that delves into the fascinating and
   of discovery as we explore the mysteries of the universe and the human experience 
   from both scientific and spiritual perspectives."
 url: ""
-baseurl: ""
+baseurl: "/mysteryjunction"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. 
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
