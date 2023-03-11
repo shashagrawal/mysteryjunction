@@ -1,0 +1,28 @@
+# Authors
+
+Shashank Agrawal:
+  name        : "Shashank Agrawal"
+  bio         : "Unveiling the mysteries of the unexplored world"
+  avatar      : "/assets/images/bio-photo1.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+Prashant Agrawal:
+  name        : "Prashant Agrawal"
+  bio         : "A beautiful mind"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"
