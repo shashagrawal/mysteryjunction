@@ -13,15 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "en-US"
 title: "Mystery Junction"
+subtitle: "A Journey of Discovery starts here" # "site tagline that appears below site title in masthead"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  'Mystery Junction' is a blog that delves into the fascinating and 
+description: "'Mystery Junction' is a blog that delves into the fascinating and 
   complex relationship between science and spirituality. Through thought-provoking 
   articles and in-depth analyses, we explore the ways in which these two seemingly 
   disparate fields intersect, overlap, and inform each other. Join us on a journey 
   of discovery as we explore the mysteries of the universe and the human experience 
-  from both scientific and spiritual perspectives.
+  from both scientific and spiritual perspectives."
+url: ""
+baseurl: ""
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. 
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Hello Masthead title I am" # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
 twitter_username: shash_ag
 github_username: shashagrawal
 minimal_mistakes_skin: default
